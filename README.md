@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Card Gif](./images/card.gif)
+![Card Gif](./images/kittie-card.gif)
 
 </div>
 
