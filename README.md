@@ -8,7 +8,7 @@
 
 A basic card component. 
 
-## Usage 
+## Example Usage 
 
 To use, simply copy the component files into your own component directory within a <code>React</code> project. To reposition the component, remove the atom styles for the container in css, this will automatically add the hamburger to the top-right. 
 
@@ -20,7 +20,11 @@ Import the component into your <code>App.js</code>:
 </pre>
 </code>
 
-And render the component in your render function via the tag <code>AtomicHamburger</code> .
+And render the component in your render function via the tag.
+
+## Goes Well With
+
+- [CardList](https://github.com/XYZ-Components/card-list)
 
 # Please Note
 
